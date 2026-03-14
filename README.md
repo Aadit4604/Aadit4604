@@ -1,73 +1,18 @@
-#  Aadit
+# 💫 About Me:
+Hi, I’m Aadit Ajudiya, a 15-year-old developer and designer based in the UAE. I enjoy building creative tech projects that combine programming, design, and problem-solving.<br><br>I work with technologies like Python, JavaScript, React, and Arduino, and I enjoy experimenting with ideas ranging from AI tools to interactive web apps and hardware projects.<br><br>Some of my projects include a math puzzle game, an Arduino-based social distancing alert system, and various AI and computer vision experiments. I also design modern user interfaces and create content focused on clean and effective visuals.<br><br>Currently, I’m focused on learning, building projects, and improving my skills in development, AI, and design while sharing my work online.
 
-**`Student Engineer | Developer | Gamer | Creator`**
 
-Hey there! I'm **Aadit**, a student engineer and developer who loves turning cool ideas into functional projects. I'm passionate about **gaming**, **coding**, and **content creation**. Right now, I'm focusing on improving my coding skills while leveling up my gaming abilities.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaditkya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@AaditAjudiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajudiya.aadit4604@gmail.com) 
 
-I'm also a gamer at heart and tech enthusiast who's always exploring new tools and workflows to enhance my development and gaming journey.
-
----
-
-  <a href="https://github.com/Aadit4604"><img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Aadit4604?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Aadit4604"><img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Aadit4604?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br />
+# 💻 Tech Stack:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aadit4604&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aadit4604&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadit4604&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Aadit4604&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🎮 What I'm Up To
-- Improving my **coding skills** with Python, JavaScript, and TypeScript
-- Leveling up my **gaming** abilities across various titles
-- Creating **content** for YouTube
-- Building projects and exploring **web development**
-- Growing as both a **developer** and **gamer**
-
----
-
-### 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://www.youtube.com/@AaditAjudiya"><img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  <a href="https://www.instagram.com/aaditkya/"><img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:ajudiya.aadit4604@gmail.com"><img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 🧩 Currently Learning
--  **TypeScript** for building robust applications
--  Web development best practices
--  Advanced coding patterns and techniques
--  Content creation for YouTube
-
----
-
-### 🎯 Goals
-- Become a skilled **developer**
-- Become a competitive **gamer**
-- Build and launch impressive projects
-- Create engaging **YouTube content**
-- Keep improving daily — both as a coder and gamer  
-
----
-
-> _“Every great project starts with curiosity and a cup of coffee.”_ ☕
-
----
-
-<p align="center">
-  <a href="#"><img alt="Made by Aadit" title="Made by Aadit" src="https://custom-icon-badges.demolab.com/badge/-Made%20by%20Aadit-00796b?style=for-the-badge&logo=terminal&logoColor=white"/></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
